@@ -10,7 +10,7 @@
 
 ### 👥 Réalisé par :
 * **Essayouti Atiqa**
-* **Timourti Sanae**
+* **Timourti Sana**
 * **Misbah Kaoutar**
 
 ---
@@ -57,3 +57,4 @@ Le Hill Climbing stagne rapidement (optimum local), tandis que le Recuit Simulé
 ```bash
 git clone [https://github.com/atiqaessayouti/TSP-Projectt.git](https://github.com/atiqaessayouti/TSP-Projectt.git)
 cd TSP-Projectt
+
